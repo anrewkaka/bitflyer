@@ -1,0 +1,23 @@
+{
+  "name": "bitflyer",
+  "version": "1.0.0",
+  "description": "active with bitflyer",
+  "main": "status.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anrewkaka/bitflyer.git"
+  },
+  "author": "lannt.xyz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anrewkaka/bitflyer/issues"
+  },
+  "homepage": "https://github.com/anrewkaka/bitflyer#readme",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "request": "^2.81.0"
+  }
+}
